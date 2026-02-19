@@ -1,6 +1,11 @@
-# 16x16 Sudoku-Solver (Optimized Backtracking)
+# 🧩 16x16 Sudoku Solver (Optimized Backtracking)
 
-A fast and simple 16x16 Sudoku solver written in C++. It utilizes optimized backtracking with a powerful **Minimum Remaining Values (MRV)** heuristic to solve complex "Hexadoku" puzzles efficiently.
+A high-performance Sudoku solver written in C++ designed to handle 16x16 grids. By utilizing optimized backtracking and the **Minimum Remaining Values (MRV)** heuristic, this solver rapidly navigates complex constraint spaces.
+
+![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Algorithm](https://img.shields.io/badge/Heuristic-MRV-green)
+![Complexity](https://img.shields.io/badge/Grid-16x16-orange)
+
 
 ## 🚀 How It Works
 
